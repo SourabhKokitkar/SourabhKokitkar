@@ -7,7 +7,7 @@
 
 **Web and App Test Automation Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sourabhkokitkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sourabh-kokitkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/SourabhKokitkar)
 
 ---
