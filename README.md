@@ -60,7 +60,7 @@ A mobile application automation project using Appium and Robot Framework. This s
 
 Feel free to reach out to me for collaboration or any inquiries.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sourabhkokitkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sourabh-kokitkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/SourabhKokitkar)
 
 ---
