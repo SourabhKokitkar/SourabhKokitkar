@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a dedicated Test Automation Engineer with over 2.5 years of experience in web and app automation. I specialize in using Selenium, Appium, Java, and Robot Framework to create efficient and reliable test automation suites. My goal is to help organizations reduce manual testing efforts and enhance the quality of their software products.
+I am a dedicated Test Automation Engineer with over 2.5+ years of experience in web and app automation. I specialize in using Selenium, Appium, Java, and Robot Framework to create efficient and reliable test automation suites. My goal is to help organizations reduce manual testing efforts and enhance the quality of their software products.
 
 ---
 
